@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #5133A5 !important;
+
+}
+.jumbotron {
+    padding-top: 80px;
+    background-color: #9575CD !important;
+    color: white;
+}
+
+footer {
+    background-color: #D1C4E9;
+    /* width: 100vw; */
+}
