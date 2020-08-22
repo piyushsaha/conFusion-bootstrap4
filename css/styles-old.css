@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #5133A5 !important;
+}
+.jumbotron {
+    padding-top: 80px;
+    background-color: #9575CD !important;
+    color: white;
+}
+
+footer {
+    background-color: #D1C4E9;
+    /* width: 100vw; */
+}
+
+.carousel {
+    background-color: #5133A5;
+}
+.carousel-item {
+    height: 250px;
+}
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 250px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
